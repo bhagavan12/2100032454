@@ -8,11 +8,11 @@ const type = {
 
 const credV = {
     "companyName": "KL University",
-    "clientID": "b8859151-64f2-4535-9210-8325737236dc",
-    "clientSecret": "GxCKIpLGutKfItOr",
-    "ownerName": "Varshith",
-    "ownerEmail": "varshi1188@gmail.com",
-    "rollNo": "2100030802"
-};
+    "clientID": "a70efa9c-453c-44a9-94c6-6b7f81692cc2",
+    "clientSecret": "cbZLghmBWSedtTvt",
+    "ownerName": "Javvadi Sai Bhagavan",
+    "ownerEmail": "2100032454cseh@gmail.com",
+    "rollNo": "2100032454"
+  }
 
 module.exports = { type, credV };
